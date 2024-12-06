@@ -1,10 +1,10 @@
-Bot Musical Discord
+# Bot Musical Discord
 
-🎵 Description :
+## 🎵 Description :
 
 Bot Discord de streaming musical permettant de lire des musiques de YouTube et Spotify directement dans les salons vocaux.
 
-✨ Fonctionnalités :
+## ✨ Fonctionnalités :
 
 • Intégration YouTube et Spotify
 
@@ -16,21 +16,7 @@ Bot Discord de streaming musical permettant de lire des musiques de YouTube et S
 
 • Déconnexion automatique du salon vocal
 
-🛠️ Dépendances :
-
-Token de votre bot Discord
-
-Clé API et Clé secrete API Spotify
-
-Discord.py
-
-yt-dlp
-
-Spotipy
-
-Python 3.8+
-
-🎮 Commandes :
+## 🎮 Commandes :
 
 !join: Connexion au salon vocal
 
@@ -50,14 +36,28 @@ Python 3.8+
 
 !volume <valeur>: Régler le volume
 
-🚀 Installation
+## 🛠️ Dépendances :
 
-Télécharger le .py
+• Token de votre bot Discord
+
+• Clé API et Clé secrete API Spotify
+
+• discord.py
+
+• yt-dlp
+
+• spotipy
+
+• Python 3.8+
+
+## 🚀 Installation
+
+Télécharger DiscordMusicBot.py
 
 Installer les dépendances
 
 Configurer les token Spotify et Discord
 
-🤝 Contributions
+## 🤝 Contributions
 
 Ouvert aux améliorations !
