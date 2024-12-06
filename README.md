@@ -1,4 +1,4 @@
-SimulaBot - Bot Musical Discord
+Bot Musical Discord
 
 🎵 Description :
 
