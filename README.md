@@ -52,7 +52,7 @@ Bot Discord de streaming musical permettant de lire des musiques de YouTube et S
 
 ## 🚀 Installation
 
-Télécharger DiscordMusicBot.py
+Télécharger [DiscordMusicBot.py](../main/DiscordMusicBot.py)
 
 Installer les dépendances
 
