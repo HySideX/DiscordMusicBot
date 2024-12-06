@@ -58,6 +58,20 @@ Installer les dépendances
 
 Configurer les token Spotify et Discord
 
-## 🤝 Contributions
+## 🚨 Avertissement Légal
 
-Ouvert aux améliorations !
+Ce projet est UNIQUEMENT À BUT ÉDUCATIF
+
+### 🔍 Considérations importantes :
+
+• Ce bot est un projet pédagogique de développement logiciel
+
+• Il ne doit PAS être utilisé pour un usage commercial ou public
+
+• Le projet respecte les principes d'apprentissage et de développement technologique
+
+## Conformité Légale
+
+Non conforme aux conditions de service de YouTube, Spotify et Discord
+
+Développé uniquement pour comprendre. L'intégration d'API, la programmation événementielle, le développement de bots
